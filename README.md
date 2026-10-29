@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About the Founder
-Saya adalah **Muhammad Luqman Hakim**, seorang *Software Engineer* dan pendiri **DH Foundry** yang lahir dan tumbuh sebagai putra daerah dari **Sumber, Cirebon**. Berfokus pada perancangan arsitektur perangkat lunak, rekayasa basis data relasional, dan pengembangan aplikasi web kustom yang terukur.
+Saya adalah **Muhammad Luqman Hakim**, seorang *Software Engineer* dan pendiri **DH Foundry** yang lahir dan tumbuh sebagai putra daerah dari wilayah ibukota kabupaten cirebon **Sumber, Cirebon**. Berfokus pada perancangan arsitektur perangkat lunak, rekayasa basis data relasional, dan pengembangan aplikasi web kustom yang terukur.
 
 Dengan pengalaman membangun berbagai solusi digital—mulai dari sistem informasi publik daerah (seperti proyek geospasial di Bapperida Kabupaten Cirebon), platform keorganisasian, hingga utilitas web modern—saya berdedikasi membawa semangat lokal Cirebon ke kancah rekayasa teknologi nasional. Saya memegang prinsip teguh bahwa setiap baris kode harus ditempa di atas **fondasi logika komputasi yang presisi** dan **integritas moral yang kuat**.
 
