@@ -42,4 +42,46 @@ Arsitektur sistem dan identitas brand **DH Foundry** dibentuk oleh harmoni antar
 #### 2. 🕋 DKM Ar-Rahman Integrated Web System — [🔗 Live Demo](https://dkm-arrahman.vercel.app/)
 * **Deskripsi:** Sistem informasi digital terintegrasi untuk Dewan Kemakmuran Masjid (DKM) Ar-Rahman yang berfokus pada transparansi publik, efisiensi operasional, dan pengelolaan jadwal keumatan.
 * **Fitur Utama:** Pelaporan rekapitulasi kas/keuangan real-time, penjadwalan kuis/khatib/imam, informasi kegiatan majelis taklim, dan direktori layanan operasional masjid.
-* **Fokus Rekayasa:** Akurasi data keuangan, tata kelola data yang trans
+* **Fokus Rekayasa:** Akurasi data keuangan, tata kelola data yang transparan, serta aksesibilitas tinggi untuk berbagai kalangan jamaah.
+
+#### 3. ⚡ All-In-One Web Utility & Downloader — [🔗 Live Demo](https://all-in-one-app-phi.vercel.app/#downloader)
+* **Deskripsi:** Suite aplikasi web utilitas modular yang menyediakan sekumpulan alat bantu produktivitas harian dan pengunduh konten terintegrasi.
+* **Fitur Utama:** Multi-source media downloader, alat konversi/utilitas praktis, serta navigasi tab instan tanpa proses registrasi.
+* **Fokus Rekayasa:** Optimasi *client-side processing*, konsumsi resource ringan, serta kestabilan interaksi API eksternal untuk pengunduhan yang efisien.
+
+#### 4. 📍 GeoLinker ID (Geospatial Distribution) — [🔗 Live Demo](https://geolinker_id.vercel.app/)
+* **Deskripsi:** Sistem pemetaan dan manajemen tautan geospasial interaktif yang dikembangkan oleh Muhammad Luqman Hakim dalam program magang di **Bapperida Kabupaten Cirebon** (periode 06 Juli s.d. 06 Oktober).
+* **Fitur Utama:** Pemetaan lokasi presisi, konsolidasi direktori wilayah Kabupaten Cirebon, tautan navigasi dinamis, dan penyajian data spasial berbasis area.
+* **Fokus Rekayasa:** Arsitektur struktur data geospasial, integrasi pemetaan wilayah yang efisien, serta skalabilitas navigasi data lokasi daerah.
+
+---
+
+### 🛠️ Core Tech Stack & Expertise
+* **Languages & Scripting:** PHP, JavaScript, SQL
+* **Databases & Architecture:** Relational Database Design, Data Modeling, Normalized Schemas
+* **Backend & Web Engineering:** REST APIs, Server Integration, Clean Code Principles
+* **Deployment & Cloud:** Vercel, Git, GitHub (`dhfoundry-studio`), Modern Web Hosting Environments
+
+---
+
+### 📊 GitHub Activity & System Metrics
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dhfoundry-studio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhfoundry-studio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhfoundry-studio&theme=tokyonight&hide_border=true&background=0B1120" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Let's Connect & Collaborate
+* **Studio Profile:** [github.com/dhfoundry-studio](https://github.com/dhfoundry-studio)
+* **Professional Inquiry:** dhfoundry.dev@gmail.com
+* **Official Web:** [dhfoundry.dev](https://dhfoundry.dev) *(In Development)*
+
+---
+<p align="center">
+  <sub>Forged with precision & integrity by <b>DH Foundry</b> • 2026</sub>
+</p>
