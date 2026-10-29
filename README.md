@@ -39,6 +39,13 @@ Arsitektur sistem dan identitas brand **DH Foundry** dibentuk oleh harmoni antar
 * **Fitur Utama:** Pusat informasi & warta organisasi, manajemen agenda/event dakwah interaktif, repositori dokumentasi kegiatan, serta portal struktur kepengurusan.
 * **Fokus Rekayasa:** Optimasi antarmuka intuitif, navigasi cepat berbasis web modern, dan penyajian data organisasi secara terstruktur.
 
+### 🌐 Featured Projects & Portfolio
+
+#### 1. 🕌 LDK Al-Hidayah Management Platform — [🔗 Live Demo](https://ldk-al-hidayah.vercel.app/)
+* **Deskripsi:** Platform ekosistem digital terpadu untuk Lembaga Dakwah Kampus Al-Hidayah. Dirancang untuk mentransformasi manajemen keorganisasian konvensional menjadi terpusat, modern, dan mudah diakses oleh seluruh anggota maupun jamaah.
+* **Fitur Utama:** Pusat informasi & warta organisasi, manajemen agenda/event dakwah interaktif, repositori dokumentasi kegiatan, serta portal struktur kepengurusan.
+* **Fokus Rekayasa:** Optimasi antarmuka intuitif, navigasi cepat berbasis web modern, dan penyajian data organisasi secara terstruktur.
+
 #### 2. 🕋 DKM Ar-Rahman Integrated Web System — [🔗 Live Demo](https://dkm-arrahman.vercel.app/)
 * **Deskripsi:** Sistem informasi digital terintegrasi untuk Dewan Kemakmuran Masjid (DKM) Ar-Rahman yang berfokus pada transparansi publik, efisiensi operasional, dan pengelolaan jadwal keumatan.
 * **Fitur Utama:** Pelaporan rekapitulasi kas/keuangan real-time, penjadwalan kuis/khatib/imam, informasi kegiatan majelis taklim, dan direktori layanan operasional masjid.
@@ -55,7 +62,6 @@ Arsitektur sistem dan identitas brand **DH Foundry** dibentuk oleh harmoni antar
 * **Fokus Rekayasa:** Arsitektur struktur data geospasial, integrasi pemetaan wilayah yang efisien, serta skalabilitas navigasi data lokasi daerah.
 
 ---
-
 ### 🛠️ Core Tech Stack & Expertise
 * **Languages & Scripting:** PHP, JavaScript, SQL
 * **Databases & Architecture:** Relational Database Design, Data Modeling, Normalized Schemas
