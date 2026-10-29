@@ -41,7 +41,7 @@ Berikut adalah beberapa produk aplikasi web dan sistem digital yang telah dikemb
   * *Deskripsi:* Sistem informasi digital Dewan Kemakmuran Masjid (DKM) Ar-Rahman guna mengoptimalkan transparansi keuangan, jadwal kegiatan, dan layanan umat.
 * ⚡ **All-In-One Utility App** [🔗 Live App](https://all-in-one-app-phi.vercel.app/#downloader)
   * *Deskripsi:* Aplikasi utilitas multifungsi berbasis web yang menyediakan berbagai alat produktivitas harian, termasuk fitur pengunduh (*downloader*) terintegrasi.
-* 📍 **GeoLinker ID** [🔗 Live App](https://geolinker_id.vercel.app/)
+* 📍 **GeoLinker ID** [🔗 Live App](https://geolinker-id.vercel.app/)
   * *Deskripsi:* Solusi pemetaan dan manajemen tautan geospasial/lokasi digital untuk mempermudah navigasi serta distribusi informasi berbasis wilayah di Indonesia.
 
 ---
