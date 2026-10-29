@@ -1,4 +1,4 @@
-
+<h1 align="center">Tentang kami👋</h1>
 <p align="center">
   <img src="IMG_20261029_113333.jpg" alt="DH Foundry Logo" width="180" />
 </p>
