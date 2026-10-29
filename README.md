@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Muhammad Luqman Hakim 👋</h1>
+
 <h3 align="center">Founder & Software Engineer at <b>DH Foundry</b></h3>
 
 <p align="center">
