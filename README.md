@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Muhammad Luqman Hakim 👋</h1>
-<h3 align="center">Founder & Software Engineer at <b>DH Foundry</b></h3>
+<h3 align="center">Founder<b>DH Foundry</b></h3>
 
 <p align="center">
   <img src="IMG_20261029_113333.jpg" alt="DH Foundry Logo" width="180" />
