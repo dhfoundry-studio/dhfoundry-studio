@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Muhammad Luqman Hakim 👋</h1>
-<h3 align="center">Founder<b>DH Foundry</b></h3>
 
 <p align="center">
   <img src="IMG_20261029_113333.jpg" alt="DH Foundry Logo" width="180" />
@@ -14,6 +12,13 @@
   <img src="https://img.shields.io/badge/Brand-DH%20Foundry-0F172A?style=for-the-badge&logo=codeforces&logoColor=F59E0B" alt="DH Foundry" />
   <img src="https://img.shields.io/badge/Identity-dhfoundry--studio-0B1120?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub Identity" />
 </p>
+
+---
+
+### 👨‍💻 About the Founder
+Saya adalah **Muhammad Luqman Hakim**, seorang *Software Engineer* dan pendiri **DH Foundry** yang lahir dan tumbuh sebagai putra daerah dari **Sumber, Cirebon**. Berfokus pada perancangan arsitektur perangkat lunak, rekayasa basis data relasional, dan pengembangan aplikasi web kustom yang terukur.
+
+Dengan pengalaman membangun berbagai solusi digital—mulai dari sistem informasi publik daerah (seperti proyek geospasial di Bapperida Kabupaten Cirebon), platform keorganisasian, hingga utilitas web modern—saya berdedikasi membawa semangat lokal Cirebon ke kancah rekayasa teknologi nasional. Saya memegang prinsip teguh bahwa setiap baris kode harus ditempa di atas **fondasi logika komputasi yang presisi** dan **integritas moral yang kuat**.
 
 ---
 
