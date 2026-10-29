@@ -54,7 +54,7 @@ Arsitektur sistem dan identitas brand **DH Foundry** dibentuk oleh harmoni antar
 
 ### 📫 Let's Connect & Collaborate
 * **Studio Profile:** [github.com/dhfoundry-studio](https://github.com/dhfoundry-studio)
-* **Professional Inquiry:** email@kamu.com
+* **Professional Inquiry:** dhfoundry.dev@gmail.com
 * **Official Web:** [dhfoundry.dev](https://dhfoundry.dev) *(In Development)*
 
 ---
