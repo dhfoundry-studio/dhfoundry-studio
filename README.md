@@ -32,15 +32,8 @@ Arsitektur sistem dan identitas brand **DH Foundry** dibentuk oleh harmoni antar
 
 ---
 
-### 🌐 Featured Projects & Portfolio
 
-#### 1. 🕌 LDK Al-Hidayah Management Platform — [🔗 Live Demo](https://ldk-al-hidayah.vercel.app/)
-* **Deskripsi:** Platform ekosistem digital terpadu untuk Lembaga Dakwah Kampus Al-Hidayah. Dirancang untuk mentransformasi manajemen keorganisasian konvensional menjadi terpusat, modern, dan mudah diakses oleh seluruh anggota maupun jamaah.
-* **Fitur Utama:** Pusat informasi & warta organisasi, manajemen agenda/event dakwah interaktif, repositori dokumentasi kegiatan, serta portal struktur kepengurusan.
-* **Fokus Rekayasa:** Optimasi antarmuka intuitif, navigasi cepat berbasis web modern, dan penyajian data organisasi secara terstruktur.
-
-### 🌐 Featured Projects & Portfolio
-
+### 🌐 Here are some of my works created over the past few years
 #### 1. 🕌 LDK Al-Hidayah Management Platform — [🔗 Live Demo](https://ldk-al-hidayah.vercel.app/)
 * **Deskripsi:** Platform ekosistem digital terpadu untuk Lembaga Dakwah Kampus Al-Hidayah. Dirancang untuk mentransformasi manajemen keorganisasian konvensional menjadi terpusat, modern, dan mudah diakses oleh seluruh anggota maupun jamaah.
 * **Fitur Utama:** Pusat informasi & warta organisasi, manajemen agenda/event dakwah interaktif, repositori dokumentasi kegiatan, serta portal struktur kepengurusan.
@@ -85,7 +78,7 @@ Arsitektur sistem dan identitas brand **DH Foundry** dibentuk oleh harmoni antar
 ### 📫 Let's Connect & Collaborate
 * **Studio Profile:** [github.com/dhfoundry-studio](https://github.com/dhfoundry-studio)
 * **Professional Inquiry:** dhfoundry.dev@gmail.com
-* **Official Web:** [dhfoundry.dev](https://dhfoundry.dev) *(In Development)*
+* **Official Web:** ---Tahap Pengembangan--- *(In Development)*
 
 ---
 <p align="center">
