@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 About DH Foundry
-**DH Foundry** adalah studio rekayasa digital independen yang berfokus pada pengembangan sistem web kustom, arsitektur basis data relasional yang kokoh, serta integrasi API berstandar tinggi. Setiap baris kode ditempa dengan presisi, memadukan keandalan logika rekayasa perangkat lunak dan integritas moral yang kuat.
+**DH Foundry** adalah studio rekayasa digital independen yang berfokus pada pengembangan sistem web kustom, arsitektur basis data relasional yang kokoh, serta integrasi solusi digital berstandar tinggi. Setiap baris kode ditempa dengan presisi, memadukan keandalan logika rekayasa perangkat lunak dan integritas moral yang kuat.
 
 ---
 
@@ -32,11 +32,25 @@ Arsitektur sistem dan identitas brand **DH Foundry** dibentuk oleh harmoni antar
 
 ---
 
+### 🌐 Featured Projects & Works (Karya DH Foundry)
+Berikut adalah beberapa produk aplikasi web dan sistem digital yang telah dikembangkan dan dideploy secara langsung:
+
+* 🕌 **LDK Al-Hidayah Platform** [🔗 Live App](https://ldk-al-hidayah.vercel.app/)
+  * *Deskripsi:* Platform web resmi untuk Lembaga Dakwah Kampus Al-Hidayah, dirancang untuk mendukung manajemen kegiatan dakwah, informasi organisasi, dan interaksi jamaah.
+* 🕋 **DKM Ar-Rahman Web System** [🔗 Live App](https://dkm-arrahman.vercel.app/)
+  * *Deskripsi:* Sistem informasi digital Dewan Kemakmuran Masjid (DKM) Ar-Rahman guna mengoptimalkan transparansi keuangan, jadwal kegiatan, dan layanan umat.
+* ⚡ **All-In-One Utility App** [🔗 Live App](https://all-in-one-app-phi.vercel.app/#downloader)
+  * *Deskripsi:* Aplikasi utilitas multifungsi berbasis web yang menyediakan berbagai alat produktivitas harian, termasuk fitur pengunduh (*downloader*) terintegrasi.
+* 📍 **GeoLinker ID** [🔗 Live App](https://geolinker_id.vercel.app/)
+  * *Deskripsi:* Solusi pemetaan dan manajemen tautan geospasial/lokasi digital untuk mempermudah navigasi serta distribusi informasi berbasis wilayah di Indonesia.
+
+---
+
 ### 🛠️ Core Tech Stack & Expertise
 * **Languages & Scripting:** PHP, JavaScript, SQL
 * **Databases & Architecture:** Relational Database Design, Data Modeling, Normalized Schemas
 * **Backend & Web Engineering:** REST APIs, Server Integration, Clean Code Principles
-* **Version Control & DevOps:** Git, GitHub (`dhfoundry-studio`), Deployment & Maintenance Workflow
+* **Deployment & Cloud:** Vercel, Git, GitHub (`dhfoundry-studio`), Modern Web Hosting Environments
 
 ---
 
