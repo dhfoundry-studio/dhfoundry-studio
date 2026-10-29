@@ -32,46 +32,14 @@ Arsitektur sistem dan identitas brand **DH Foundry** dibentuk oleh harmoni antar
 
 ---
 
-### 🌐 Featured Projects & Works (Karya DH Foundry)
-Berikut adalah beberapa produk aplikasi web dan sistem digital yang telah dikembangkan dan dideploy secara langsung:
+### 🌐 Featured Projects & Portfolio
 
-* 🕌 **LDK Al-Hidayah Platform** [🔗 Live App](https://ldk-al-hidayah.vercel.app/)
-  * *Deskripsi:* Platform web resmi untuk Lembaga Dakwah Kampus Al-Hidayah, dirancang untuk mendukung manajemen kegiatan dakwah, informasi organisasi, dan interaksi jamaah.
-* 🕋 **DKM Ar-Rahman Web System** [🔗 Live App](https://dkm-arrahman.vercel.app/)
-  * *Deskripsi:* Sistem informasi digital Dewan Kemakmuran Masjid (DKM) Ar-Rahman guna mengoptimalkan transparansi keuangan, jadwal kegiatan, dan layanan umat.
-* ⚡ **All-In-One Utility App** [🔗 Live App](https://all-in-one-app-phi.vercel.app/#downloader)
-  * *Deskripsi:* Aplikasi utilitas multifungsi berbasis web yang menyediakan berbagai alat produktivitas harian, termasuk fitur pengunduh (*downloader*) terintegrasi.
-* 📍 **GeoLinker ID** [🔗 Live App](https://geolinker-id.vercel.app/)
-  * *Deskripsi:* Solusi pemetaan dan manajemen tautan geospasial/lokasi digital untuk mempermudah navigasi serta distribusi informasi berbasis wilayah di Indonesia.
+#### 1. 🕌 LDK Al-Hidayah Management Platform — [🔗 Live Demo](https://ldk-al-hidayah.vercel.app/)
+* **Deskripsi:** Platform ekosistem digital terpadu untuk Lembaga Dakwah Kampus Al-Hidayah. Dirancang untuk mentransformasi manajemen keorganisasian konvensional menjadi terpusat, modern, dan mudah diakses oleh seluruh anggota maupun jamaah.
+* **Fitur Utama:** Pusat informasi & warta organisasi, manajemen agenda/event dakwah interaktif, repositori dokumentasi kegiatan, serta portal struktur kepengurusan.
+* **Fokus Rekayasa:** Optimasi antarmuka intuitif, navigasi cepat berbasis web modern, dan penyajian data organisasi secara terstruktur.
 
----
-
-### 🛠️ Core Tech Stack & Expertise
-* **Languages & Scripting:** PHP, JavaScript, SQL
-* **Databases & Architecture:** Relational Database Design, Data Modeling, Normalized Schemas
-* **Backend & Web Engineering:** REST APIs, Server Integration, Clean Code Principles
-* **Deployment & Cloud:** Vercel, Git, GitHub (`dhfoundry-studio`), Modern Web Hosting Environments
-
----
-
-### 📊 GitHub Activity & System Metrics
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dhfoundry-studio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhfoundry-studio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhfoundry-studio&theme=tokyonight&hide_border=true&background=0B1120" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Let's Connect & Collaborate
-* **Studio Profile:** [github.com/dhfoundry-studio](https://github.com/dhfoundry-studio)
-* **Professional Inquiry:** dhfoundry.dev@gmail.com
-* **Official Web:** [dhfoundry.dev](https://dhfoundry.dev) *(In Development)*
-
----
-<p align="center">
-  <sub>Forged with precision & integrity by <b>DH Foundry</b> • 2026</sub>
-</p>
+#### 2. 🕋 DKM Ar-Rahman Integrated Web System — [🔗 Live Demo](https://dkm-arrahman.vercel.app/)
+* **Deskripsi:** Sistem informasi digital terintegrasi untuk Dewan Kemakmuran Masjid (DKM) Ar-Rahman yang berfokus pada transparansi publik, efisiensi operasional, dan pengelolaan jadwal keumatan.
+* **Fitur Utama:** Pelaporan rekapitulasi kas/keuangan real-time, penjadwalan kuis/khatib/imam, informasi kegiatan majelis taklim, dan direktori layanan operasional masjid.
+* **Fokus Rekayasa:** Akurasi data keuangan, tata kelola data yang trans
