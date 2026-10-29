@@ -49,7 +49,7 @@ Arsitektur sistem dan identitas brand **DH Foundry** dibentuk oleh harmoni antar
 * **Fitur Utama:** Multi-source media downloader, alat konversi/utilitas praktis, serta navigasi tab instan tanpa proses registrasi.
 * **Fokus Rekayasa:** Optimasi *client-side processing*, konsumsi resource ringan, serta kestabilan interaksi API eksternal untuk pengunduhan yang efisien.
 
-#### 4. 📍 GeoLinker ID (Geospatial Distribution) — [🔗 Live Demo](https://geolinker_id.vercel.app/)
+#### 4. 📍 GeoLinker ID (Geospatial Distribution) — [🔗 Live Demo](https://geolinker-id.vercel.app/)
 * **Deskripsi:** Sistem pemetaan dan manajemen tautan geospasial interaktif yang dikembangkan oleh Muhammad Luqman Hakim dalam program magang di **Bapperida Kabupaten Cirebon** (periode 06 Juli s.d. 06 Oktober).
 * **Fitur Utama:** Pemetaan lokasi presisi, konsolidasi direktori wilayah Kabupaten Cirebon, tautan navigasi dinamis, dan penyajian data spasial berbasis area.
 * **Fokus Rekayasa:** Arsitektur struktur data geospasial, integrasi pemetaan wilayah yang efisien, serta skalabilitas navigasi data lokasi daerah.
